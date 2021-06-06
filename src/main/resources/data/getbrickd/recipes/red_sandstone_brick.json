@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xx ",
+    "xx ",
+    "   "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:red_smooth_sandstone"
+    }
+  },
+  "result":
+  {
+    "item": "getbrickd:red_sandstone_brick",
+    "count": 4
+  }
+}

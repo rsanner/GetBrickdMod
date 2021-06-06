@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "getbrickd:block/sandstone_brick"
+    }
+  }
+}
